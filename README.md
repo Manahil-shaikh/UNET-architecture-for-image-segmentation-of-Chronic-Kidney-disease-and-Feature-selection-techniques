@@ -1,11 +1,10 @@
+Introduction to Project:
 Chronic kidney disease (CKD) refers to any long-term condition which deteriorates the functionality of the kidney in body waste filtration. The disease could be treated if diagnosed timely. Keeping this problem domain in view, the proposed approach includes adaptive machine-learning techniques for chronic kidney disease detection to trace the infected areas and create a base for kidney image analysis. Furthermore, we will process the CT scan images of the Kidney to determine the abnormality. Moreover, our technique includes promising opportunities as it can further be modified into a wearable device. Also, it can play a considerable role in a patient's health care and diagnostics.
 
 Feature-selection-and-model-prediction:
 The model is also modified to reduce the computational cost. The dense full file contains a modified UNET model, which includes 5 encoders and 5 decoders with fewer filters.
 The code for creating the model.h5 file and predictions are also given.
 The file feature-selection dataset contains the code for applying feature selection technqiue using the openCV library and generating the dataset of the feature selected images.
-Introduction to Project:
-
 
 Dataset:
 We used the publically available KITS 19 Challenge dataset. The dataset is available at this [link](https://github.com/neheller/kits19)
