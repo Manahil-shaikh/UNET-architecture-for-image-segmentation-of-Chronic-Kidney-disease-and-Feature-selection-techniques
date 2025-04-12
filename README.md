@@ -23,3 +23,5 @@ e) dense-full(1) notebook includes the addition of dense layers within the UNET 
 Trained Model:
 The trained model can be downloaded [here. ](https://drive.google.com/file/d/14RMZTk4B3iVD7PK55CiThARcWCqi489l/view?usp=sharing)
 
+Web Application:
+A Flask-based web application has also been developed to demonstrate the model and display the results. The source code can be found in the [Web_app](https://github.com/Manahil-shaikh/UNET-architecture-for-image-segmentation-of-Chronic-Kidney-disease-and-Feature-selection-techniques/tree/main/Web_App) folder.
